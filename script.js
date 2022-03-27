@@ -89,7 +89,7 @@ const questions = [
     answers: [
       { text: 'Web Dev Simplified', correct: true },
       { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
+      { text: 'Ram', correct: true },
       { text: 'Fun Fun Function', correct: true }
     ]
   },
